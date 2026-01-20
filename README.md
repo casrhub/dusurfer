@@ -2,11 +2,11 @@
 
 Everyone knows Apple's macOS storage analyzer (and Finder) is trash. Here's why:
 
-* **Vague**: "Documents: 100GB" — okay, but where?
+* **Vague**: "Documents: 100GB" in system storage — where?
 
 * **No freedom**: macOS is built with the bandaid philosophy. Fine for passengers, but some of us want to actually drive this OS (even if you want to use a UI for this). 
 
-* **Finder is useless**: Want folder sizes? Click each one individually. Why, Apple?
+* **Finder is useless**: Want folder sizes? Click each one individually.
 
 ## What dusurfer does
 
